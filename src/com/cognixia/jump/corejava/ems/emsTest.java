@@ -7,8 +7,8 @@ import org.junit.jupiter.api.Test;
 class emsTest {
 
 	@Test
-	void test() {
-		fail("Not yet implemented");
+	void testReadFile() {
+		fail("Not implemented yet.");
 	}
 
 }

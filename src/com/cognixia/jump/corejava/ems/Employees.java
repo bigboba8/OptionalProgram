@@ -63,7 +63,7 @@ private static JTextField textName = new JTextField();;
 		textName = setTextName;
 	}
 
-	public static JTextField getTextName() {
+	public JTextField getTextName() {
 		return textName;
 	}
 

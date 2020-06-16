@@ -25,13 +25,13 @@ public class Departments {
 		
 	}
 
-	private static JTextField textDepartment = new JTextField();;
+	private static JTextField textDepartment = new JTextField();
 
 	public void setTextDepartment(JTextField setTextDepartment) {
 		textDepartment = setTextDepartment;
 	}
 
-	public static JTextField getTextDepartment() {
+	public JTextField getTextDepartment() {
 		return textDepartment;
 	}
 
